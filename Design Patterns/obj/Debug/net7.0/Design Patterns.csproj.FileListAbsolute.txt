@@ -1,0 +1,33 @@
+C:\Users\adm\source\repos\Design Patterns\Design Patterns\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\adm\source\repos\Design Patterns\Design Patterns\bin\Debug\net7.0\appsettings.json
+C:\Users\adm\source\repos\Design Patterns\Design Patterns\bin\Debug\net7.0\Design Patterns.exe
+C:\Users\adm\source\repos\Design Patterns\Design Patterns\bin\Debug\net7.0\Design Patterns.deps.json
+C:\Users\adm\source\repos\Design Patterns\Design Patterns\bin\Debug\net7.0\Design Patterns.runtimeconfig.json
+C:\Users\adm\source\repos\Design Patterns\Design Patterns\bin\Debug\net7.0\Design Patterns.dll
+C:\Users\adm\source\repos\Design Patterns\Design Patterns\bin\Debug\net7.0\Design Patterns.pdb
+C:\Users\adm\source\repos\Design Patterns\Design Patterns\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\adm\source\repos\Design Patterns\Design Patterns\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\adm\source\repos\Design Patterns\Design Patterns\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\adm\source\repos\Design Patterns\Design Patterns\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\adm\source\repos\Design Patterns\Design Patterns\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\adm\source\repos\Design Patterns\Design Patterns\obj\Debug\net7.0\Design Patterns.csproj.AssemblyReference.cache
+C:\Users\adm\source\repos\Design Patterns\Design Patterns\obj\Debug\net7.0\Design Patterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adm\source\repos\Design Patterns\Design Patterns\obj\Debug\net7.0\Design Patterns.AssemblyInfoInputs.cache
+C:\Users\adm\source\repos\Design Patterns\Design Patterns\obj\Debug\net7.0\Design Patterns.AssemblyInfo.cs
+C:\Users\adm\source\repos\Design Patterns\Design Patterns\obj\Debug\net7.0\Design Patterns.csproj.CoreCompileInputs.cache
+C:\Users\adm\source\repos\Design Patterns\Design Patterns\obj\Debug\net7.0\Design Patterns.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\adm\source\repos\Design Patterns\Design Patterns\obj\Debug\net7.0\Design Patterns.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\adm\source\repos\Design Patterns\Design Patterns\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\adm\source\repos\Design Patterns\Design Patterns\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\adm\source\repos\Design Patterns\Design Patterns\obj\Debug\net7.0\staticwebassets\msbuild.Design Patterns.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\adm\source\repos\Design Patterns\Design Patterns\obj\Debug\net7.0\staticwebassets\msbuild.build.Design Patterns.props
+C:\Users\adm\source\repos\Design Patterns\Design Patterns\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Design Patterns.props
+C:\Users\adm\source\repos\Design Patterns\Design Patterns\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Design Patterns.props
+C:\Users\adm\source\repos\Design Patterns\Design Patterns\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\adm\source\repos\Design Patterns\Design Patterns\obj\Debug\net7.0\scopedcss\bundle\Design Patterns.styles.css
+C:\Users\adm\source\repos\Design Patterns\Design Patterns\obj\Debug\net7.0\Design Patterns.csproj.CopyComplete
+C:\Users\adm\source\repos\Design Patterns\Design Patterns\obj\Debug\net7.0\Design Patterns.dll
+C:\Users\adm\source\repos\Design Patterns\Design Patterns\obj\Debug\net7.0\refint\Design Patterns.dll
+C:\Users\adm\source\repos\Design Patterns\Design Patterns\obj\Debug\net7.0\Design Patterns.pdb
+C:\Users\adm\source\repos\Design Patterns\Design Patterns\obj\Debug\net7.0\Design Patterns.genruntimeconfig.cache
+C:\Users\adm\source\repos\Design Patterns\Design Patterns\obj\Debug\net7.0\ref\Design Patterns.dll
